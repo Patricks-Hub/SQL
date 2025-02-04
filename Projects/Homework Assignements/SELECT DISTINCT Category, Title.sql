@@ -1,0 +1,2 @@
+SELECT DISTINCT Category, Title 
+FROM BOOKS;

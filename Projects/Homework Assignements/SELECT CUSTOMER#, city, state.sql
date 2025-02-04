@@ -1,0 +1,2 @@
+SELECT CUSTOMER#, city, state
+FROM CUSTOMERS;
