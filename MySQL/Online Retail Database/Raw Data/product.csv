@@ -1,0 +1,1001 @@
+product_id,product_name,category_name,price
+784,'Smartphone','Electronics',373.36
+682,'Soccer Ball','Sports & Outdoors',299.34
+684,'Tent','Sports & Outdoors',23
+204,'Story Book','Books & Stationery',230.11
+202,'Skirt','Fashion',176.72
+829,'Smartphone','Electronics',196.16
+706,'Tablet','Electronics',272.75
+405,'Yoga Mat','Sports & Outdoors',292.9
+549,'Pillow','Home & Living',429.11
+545,'Blanket','Home & Living',191.39
+549,'Smartwatch','Electronics',321.14
+773,'Notebook','Books & Stationery',494.87
+526,'Pillow','Home & Living',122.23
+544,'Laptop','Electronics',457.44
+943,'Pen','Books & Stationery',443.49
+297,'Shirt','Fashion',274.1
+107,'Notebook','Books & Stationery',117.47
+871,'Smartphone','Electronics',84.89
+457,'Tablet','Electronics',196.99
+941,'Smartphone','Electronics',344.04
+853,'Pillow','Home & Living',153.82
+938,'Carpet','Home & Living',383.36
+867,'Carpet','Home & Living',308.4
+424,'Soccer Ball','Sports & Outdoors',303.48
+461,'Blanket','Home & Living',38.38
+485,'Novel','Books & Stationery',489.21
+704,'Eraser','Books & Stationery',90.91
+732,'Shirt','Fashion',380.08
+815,'Vase','Home & Living',450.81
+768,'Pillow','Home & Living',298.27
+658,'Laptop','Electronics',43.03
+314,'Dress','Fashion',337.8
+264,'Tent','Sports & Outdoors',241.61
+653,'Tablet','Electronics',183.61
+289,'Smartphone','Electronics',207.28
+353,'Pants','Fashion',272.78
+824,'T-shirt','Fashion',227.13
+499,'Soccer Ball','Sports & Outdoors',484.81
+374,'Skirt','Fashion',452.2
+355,'Vase','Home & Living',149.77
+573,'Running Shoes','Sports & Outdoors',85.85
+861,'Soccer Ball','Sports & Outdoors',376.51
+410,'Basketball','Sports & Outdoors',37.87
+615,'Soccer Ball','Sports & Outdoors',340.85
+673,'Basketball','Sports & Outdoors',293.67
+182,'Tent','Sports & Outdoors',266.16
+971,'Dress','Fashion',203.94
+476,'Smartphone','Electronics',234.56
+161,'Shirt','Fashion',139.95
+837,'Painting','Home & Living',87.3
+416,'Soccer Ball','Sports & Outdoors',337.25
+660,'Dress','Fashion',66.56
+961,'Carpet','Home & Living',113.21
+309,'Carpet','Home & Living',249.38
+294,'Pillow','Home & Living',11.74
+649,'Eraser','Books & Stationery',355.78
+945,'Shirt','Fashion',27.65
+395,'T-shirt','Fashion',161.05
+922,'T-shirt','Fashion',183.3
+799,'Basketball','Sports & Outdoors',463.62
+311,'Skirt','Fashion',22.15
+216,'Story Book','Books & Stationery',140.73
+684,'Story Book','Books & Stationery',107.79
+354,'Pants','Fashion',21.6
+202,'Headphones','Electronics',182.06
+119,'Yoga Mat','Sports & Outdoors',470.23
+533,'Yoga Mat','Sports & Outdoors',28.75
+362,'Vase','Home & Living',307.04
+721,'Dress','Fashion',31.75
+732,'Basketball','Sports & Outdoors',188.47
+675,'Yoga Mat','Sports & Outdoors',335.06
+569,'Vase','Home & Living',169.83
+915,'Pen','Books & Stationery',341.89
+260,'Soccer Ball','Sports & Outdoors',158.9
+381,'Vase','Home & Living',226.48
+755,'T-shirt','Fashion',149.06
+624,'Dress','Fashion',120.07
+551,'Eraser','Books & Stationery',426.37
+293,'Basketball','Sports & Outdoors',361.99
+941,'Smartphone','Electronics',391.43
+621,'Running Shoes','Sports & Outdoors',34.61
+212,'Skirt','Fashion',337.11
+141,'Eraser','Books & Stationery',409.35
+858,'Story Book','Books & Stationery',374.39
+351,'Carpet','Home & Living',247.45
+606,'Blanket','Home & Living',143.14
+166,'Pants','Fashion',197.69
+348,'Notebook','Books & Stationery',275.88
+653,'Eraser','Books & Stationery',473.57
+209,'Pen','Books & Stationery',12.89
+491,'Eraser','Books & Stationery',376.28
+770,'Story Book','Books & Stationery',143.74
+349,'Story Book','Books & Stationery',421.85
+634,'Eraser','Books & Stationery',286.55
+142,'Story Book','Books & Stationery',34.64
+979,'Vase','Home & Living',146.35
+650,'Smartwatch','Electronics',35.52
+994,'Smartphone','Electronics',475.31
+912,'Pants','Fashion',242.04
+101,'Painting','Home & Living',92.22
+865,'Dress','Fashion',62.97
+563,'Pen','Books & Stationery',471.32
+613,'T-shirt','Fashion',351.62
+705,'Smartwatch','Electronics',393.49
+292,'Smartwatch','Electronics',327.3
+952,'Tablet','Electronics',480.79
+832,'Skirt','Fashion',96.31
+918,'Running Shoes','Sports & Outdoors',237.79
+360,'T-shirt','Fashion',146.67
+863,'Running Shoes','Sports & Outdoors',174.83
+575,'Dress','Fashion',400.94
+133,'Carpet','Home & Living',14.97
+159,'Eraser','Books & Stationery',381.5
+704,'Novel','Books & Stationery',55.6
+793,'Yoga Mat','Sports & Outdoors',241.9
+273,'Yoga Mat','Sports & Outdoors',182.39
+798,'Laptop','Electronics',164.62
+182,'Pants','Fashion',116.03
+222,'Tent','Sports & Outdoors',148.67
+793,'Blanket','Home & Living',158.11
+399,'Smartwatch','Electronics',153.15
+914,'Smartphone','Electronics',291.29
+774,'Headphones','Electronics',471.12
+363,'Novel','Books & Stationery',292.74
+783,'Yoga Mat','Sports & Outdoors',51.74
+466,'Tent','Sports & Outdoors',397.46
+988,'Notebook','Books & Stationery',431.48
+334,'Soccer Ball','Sports & Outdoors',474.32
+978,'Laptop','Electronics',127.53
+237,'Eraser','Books & Stationery',240.26
+555,'Novel','Books & Stationery',346.82
+695,'Skirt','Fashion',66.24
+135,'T-shirt','Fashion',39.22
+318,'Vase','Home & Living',70.93
+757,'Carpet','Home & Living',274.59
+386,'Notebook','Books & Stationery',305.82
+115,'Tent','Sports & Outdoors',475.89
+285,'Skirt','Fashion',264.29
+744,'Running Shoes','Sports & Outdoors',321.04
+910,'Notebook','Books & Stationery',167.32
+749,'Notebook','Books & Stationery',334.67
+858,'Novel','Books & Stationery',164.11
+261,'Soccer Ball','Sports & Outdoors',332.25
+632,'Yoga Mat','Sports & Outdoors',315.09
+363,'Dress','Fashion',279.12
+369,'Smartphone','Electronics',486.84
+398,'Carpet','Home & Living',16.7
+233,'Tablet','Electronics',474.06
+543,'Carpet','Home & Living',355.65
+798,'Skirt','Fashion',280.12
+620,'T-shirt','Fashion',145.36
+845,'Pillow','Home & Living',148.59
+177,'Story Book','Books & Stationery',228.81
+178,'Running Shoes','Sports & Outdoors',233.12
+395,'Shirt','Fashion',197.66
+394,'Pen','Books & Stationery',494.32
+775,'Laptop','Electronics',256.12
+937,'Novel','Books & Stationery',267.72
+114,'T-shirt','Fashion',240.05
+625,'Headphones','Electronics',427.65
+575,'Eraser','Books & Stationery',27.59
+180,'Blanket','Home & Living',375.92
+971,'Tablet','Electronics',91.52
+203,'Headphones','Electronics',185.65
+204,'Basketball','Sports & Outdoors',93.29
+955,'Skirt','Fashion',457.29
+606,'Notebook','Books & Stationery',336.75
+656,'T-shirt','Fashion',226.45
+836,'Notebook','Books & Stationery',233.85
+167,'Novel','Books & Stationery',126.23
+883,'Pillow','Home & Living',489.19
+112,'Smartwatch','Electronics',375.13
+629,'Blanket','Home & Living',321.94
+189,'T-shirt','Fashion',452.67
+276,'Smartwatch','Electronics',188.78
+139,'Story Book','Books & Stationery',108.39
+111,'Yoga Mat','Sports & Outdoors',416.93
+683,'Painting','Home & Living',404.07
+563,'Skirt','Fashion',483.96
+633,'Headphones','Electronics',272.92
+975,'Carpet','Home & Living',196.7
+157,'Skirt','Fashion',22.26
+620,'Tablet','Electronics',455.6
+910,'Smartphone','Electronics',159.14
+157,'Basketball','Sports & Outdoors',200.44
+661,'Running Shoes','Sports & Outdoors',297.8
+839,'Tablet','Electronics',311.67
+128,'Pen','Books & Stationery',475.77
+719,'Yoga Mat','Sports & Outdoors',39.67
+210,'Novel','Books & Stationery',334.76
+203,'Headphones','Electronics',129.35
+845,'Basketball','Sports & Outdoors',297.33
+579,'Soccer Ball','Sports & Outdoors',145.86
+602,'T-shirt','Fashion',333.92
+299,'Shirt','Fashion',168.65
+123,'Eraser','Books & Stationery',65.69
+928,'Tent','Sports & Outdoors',63.44
+643,'Yoga Mat','Sports & Outdoors',234.44
+314,'Pen','Books & Stationery',346.19
+371,'Headphones','Electronics',308.07
+175,'Tent','Sports & Outdoors',358.95
+423,'Eraser','Books & Stationery',306.66
+953,'Basketball','Sports & Outdoors',220.73
+619,'Pen','Books & Stationery',367.51
+886,'Blanket','Home & Living',346.54
+843,'Tablet','Electronics',57.32
+436,'Smartwatch','Electronics',478.75
+389,'Vase','Home & Living',435.37
+874,'Painting','Home & Living',60.76
+417,'T-shirt','Fashion',181.56
+405,'Basketball','Sports & Outdoors',405.54
+206,'Tent','Sports & Outdoors',22.86
+568,'Dress','Fashion',354.32
+448,'Pants','Fashion',287.5
+511,'Smartphone','Electronics',375.59
+144,'Dress','Fashion',162.7
+287,'Smartphone','Electronics',86.23
+722,'Pen','Books & Stationery',247.97
+490,'Soccer Ball','Sports & Outdoors',179.13
+336,'Eraser','Books & Stationery',336.89
+959,'Smartphone','Electronics',110.17
+190,'Painting','Home & Living',68.79
+218,'Eraser','Books & Stationery',354.8
+852,'Pillow','Home & Living',204.56
+974,'Headphones','Electronics',292.12
+991,'Pillow','Home & Living',208.47
+484,'Notebook','Books & Stationery',53.18
+780,'Soccer Ball','Sports & Outdoors',203.93
+932,'T-shirt','Fashion',260.14
+981,'Painting','Home & Living',366.42
+320,'Dress','Fashion',106.66
+775,'Laptop','Electronics',476.13
+394,'Running Shoes','Sports & Outdoors',343.76
+814,'Painting','Home & Living',83.97
+911,'Carpet','Home & Living',37.52
+535,'Smartphone','Electronics',190.68
+748,'Smartwatch','Electronics',301.1
+884,'Tablet','Electronics',455.43
+713,'Eraser','Books & Stationery',83.92
+248,'Pillow','Home & Living',257.23
+538,'Eraser','Books & Stationery',266.15
+400,'Pen','Books & Stationery',389.49
+843,'Pillow','Home & Living',171.55
+481,'Basketball','Sports & Outdoors',173.35
+398,'Vase','Home & Living',73.19
+468,'Notebook','Books & Stationery',408.46
+816,'Soccer Ball','Sports & Outdoors',326.55
+371,'Blanket','Home & Living',476.07
+651,'Pants','Fashion',85.92
+188,'Tent','Sports & Outdoors',28.5
+335,'Running Shoes','Sports & Outdoors',85.58
+151,'Skirt','Fashion',31.41
+471,'Eraser','Books & Stationery',149.61
+361,'Dress','Fashion',483.14
+489,'Running Shoes','Sports & Outdoors',236.22
+961,'Story Book','Books & Stationery',410.28
+671,'Notebook','Books & Stationery',281.72
+558,'Headphones','Electronics',51.1
+789,'Skirt','Fashion',54.94
+124,'Tablet','Electronics',36.1
+281,'Headphones','Electronics',120.02
+967,'Blanket','Home & Living',77.42
+976,'Skirt','Fashion',229.81
+171,'Pants','Fashion',278.91
+644,'Blanket','Home & Living',157.56
+400,'Running Shoes','Sports & Outdoors',40.78
+802,'Tent','Sports & Outdoors',128.55
+450,'Blanket','Home & Living',289.63
+665,'Pillow','Home & Living',477.17
+144,'Soccer Ball','Sports & Outdoors',201.32
+957,'Painting','Home & Living',376.19
+502,'Smartwatch','Electronics',370.24
+967,'Blanket','Home & Living',416.89
+847,'Pants','Fashion',40.92
+145,'T-shirt','Fashion',164.64
+491,'Running Shoes','Sports & Outdoors',134.12
+321,'Headphones','Electronics',143.88
+234,'Pen','Books & Stationery',176.13
+631,'Yoga Mat','Sports & Outdoors',402.56
+773,'Shirt','Fashion',153.95
+157,'Vase','Home & Living',305.28
+854,'Novel','Books & Stationery',366.14
+756,'Smartphone','Electronics',338.88
+544,'T-shirt','Fashion',79.96
+825,'T-shirt','Fashion',125.64
+502,'Soccer Ball','Sports & Outdoors',306.5
+148,'Novel','Books & Stationery',291.22
+990,'Blanket','Home & Living',480.65
+826,'Eraser','Books & Stationery',67.7
+721,'Yoga Mat','Sports & Outdoors',350.05
+442,'Tablet','Electronics',94.6
+151,'Painting','Home & Living',357.67
+452,'Pants','Fashion',398.91
+279,'Pants','Fashion',397.28
+614,'Eraser','Books & Stationery',73.59
+150,'Eraser','Books & Stationery',211.29
+899,'Pillow','Home & Living',230.49
+539,'Tent','Sports & Outdoors',99.16
+643,'Smartphone','Electronics',263.87
+266,'Dress','Fashion',474.27
+261,'Blanket','Home & Living',321.18
+360,'Tent','Sports & Outdoors',55.78
+632,'Pants','Fashion',332.78
+909,'Soccer Ball','Sports & Outdoors',414.37
+742,'Yoga Mat','Sports & Outdoors',329.05
+685,'Eraser','Books & Stationery',151.94
+681,'Notebook','Books & Stationery',232.24
+761,'Pen','Books & Stationery',109.97
+241,'Painting','Home & Living',487.93
+702,'Headphones','Electronics',128.45
+880,'Smartphone','Electronics',152.2
+282,'Dress','Fashion',467.54
+360,'Eraser','Books & Stationery',238.74
+180,'Eraser','Books & Stationery',234.04
+220,'Headphones','Electronics',252.5
+792,'Smartphone','Electronics',221.15
+954,'Pillow','Home & Living',206.28
+596,'Pillow','Home & Living',199.31
+110,'Tent','Sports & Outdoors',68.22
+985,'Carpet','Home & Living',470.08
+993,'Soccer Ball','Sports & Outdoors',32.2
+775,'Running Shoes','Sports & Outdoors',82.98
+648,'Blanket','Home & Living',202.55
+172,'Carpet','Home & Living',415.86
+247,'Novel','Books & Stationery',190.5
+380,'Pillow','Home & Living',302.49
+440,'Tent','Sports & Outdoors',121.5
+890,'Running Shoes','Sports & Outdoors',82.41
+722,'Laptop','Electronics',19.28
+507,'Skirt','Fashion',255.89
+588,'Laptop','Electronics',264.15
+111,'Running Shoes','Sports & Outdoors',163.74
+855,'Yoga Mat','Sports & Outdoors',341.18
+403,'Carpet','Home & Living',247.25
+676,'Painting','Home & Living',355.4
+819,'Carpet','Home & Living',467.51
+139,'Running Shoes','Sports & Outdoors',448.92
+246,'Dress','Fashion',30.61
+799,'Vase','Home & Living',114.85
+675,'Blanket','Home & Living',63.52
+880,'Basketball','Sports & Outdoors',322.59
+247,'Novel','Books & Stationery',343.78
+714,'Skirt','Fashion',329.92
+665,'Painting','Home & Living',149.85
+263,'Basketball','Sports & Outdoors',272.22
+339,'Skirt','Fashion',442.3
+861,'Pen','Books & Stationery',101.29
+455,'Smartphone','Electronics',156.21
+463,'Vase','Home & Living',494.66
+889,'Shirt','Fashion',239.33
+627,'Notebook','Books & Stationery',362.11
+674,'Basketball','Sports & Outdoors',95.99
+234,'Yoga Mat','Sports & Outdoors',52.5
+133,'Notebook','Books & Stationery',468.55
+922,'Painting','Home & Living',157.95
+383,'Blanket','Home & Living',40.44
+799,'Yoga Mat','Sports & Outdoors',348.24
+125,'Basketball','Sports & Outdoors',117.37
+472,'Yoga Mat','Sports & Outdoors',213.76
+369,'Pants','Fashion',343.37
+233,'Eraser','Books & Stationery',354.85
+260,'Tent','Sports & Outdoors',109.06
+503,'Running Shoes','Sports & Outdoors',66.96
+521,'Running Shoes','Sports & Outdoors',406.26
+108,'Soccer Ball','Sports & Outdoors',283.81
+739,'Notebook','Books & Stationery',410.06
+301,'Notebook','Books & Stationery',353.19
+897,'Tablet','Electronics',25.55
+311,'Notebook','Books & Stationery',496.5
+318,'Pen','Books & Stationery',49.32
+317,'Pillow','Home & Living',97.45
+852,'T-shirt','Fashion',380.53
+364,'Eraser','Books & Stationery',195.85
+983,'Blanket','Home & Living',469.33
+389,'Eraser','Books & Stationery',385.37
+530,'Soccer Ball','Sports & Outdoors',228.76
+424,'Tablet','Electronics',225.09
+119,'Laptop','Electronics',256.91
+887,'Yoga Mat','Sports & Outdoors',292.96
+633,'Shirt','Fashion',118.31
+603,'Basketball','Sports & Outdoors',316.74
+572,'Vase','Home & Living',395.04
+794,'Vase','Home & Living',100.1
+614,'Blanket','Home & Living',404.83
+889,'Tent','Sports & Outdoors',75.71
+332,'Tablet','Electronics',425.1
+508,'Headphones','Electronics',194.81
+344,'Shirt','Fashion',364.91
+937,'Painting','Home & Living',478.94
+426,'Tablet','Electronics',458.08
+175,'Shirt','Fashion',167.59
+787,'Painting','Home & Living',138.17
+292,'Notebook','Books & Stationery',458.02
+200,'Pants','Fashion',17.95
+478,'Notebook','Books & Stationery',84.68
+898,'Skirt','Fashion',279.81
+388,'Pen','Books & Stationery',235.81
+525,'Running Shoes','Sports & Outdoors',100.18
+887,'Soccer Ball','Sports & Outdoors',421.14
+907,'Tablet','Electronics',77.37
+707,'Laptop','Electronics',257.81
+117,'Running Shoes','Sports & Outdoors',333.05
+420,'Smartphone','Electronics',269.41
+715,'Running Shoes','Sports & Outdoors',405.02
+914,'Pants','Fashion',104.05
+721,'Novel','Books & Stationery',192.8
+988,'Dress','Fashion',345.18
+643,'Smartphone','Electronics',208.59
+311,'Laptop','Electronics',50.52
+775,'Smartwatch','Electronics',460.38
+822,'Running Shoes','Sports & Outdoors',142.84
+287,'Tent','Sports & Outdoors',332.47
+284,'Shirt','Fashion',80.65
+693,'Blanket','Home & Living',286.34
+434,'Yoga Mat','Sports & Outdoors',198.08
+542,'Smartwatch','Electronics',375.27
+221,'Headphones','Electronics',306.53
+246,'Pillow','Home & Living',320.72
+776,'Pen','Books & Stationery',101.01
+280,'Yoga Mat','Sports & Outdoors',401.05
+468,'Story Book','Books & Stationery',372.43
+809,'Vase','Home & Living',186.36
+543,'Pen','Books & Stationery',282.92
+868,'Carpet','Home & Living',55.6
+543,'Headphones','Electronics',212.77
+839,'Shirt','Fashion',265.34
+397,'Painting','Home & Living',251.63
+484,'Vase','Home & Living',393.51
+674,'Eraser','Books & Stationery',312.17
+736,'Notebook','Books & Stationery',422.39
+852,'Vase','Home & Living',409.58
+486,'Carpet','Home & Living',474.17
+529,'Notebook','Books & Stationery',152.81
+248,'Dress','Fashion',194.27
+508,'Shirt','Fashion',498.66
+391,'Story Book','Books & Stationery',224.84
+388,'Pen','Books & Stationery',78.2
+192,'Pen','Books & Stationery',46.24
+348,'Running Shoes','Sports & Outdoors',276.39
+424,'Soccer Ball','Sports & Outdoors',63.59
+782,'Soccer Ball','Sports & Outdoors',285.98
+651,'Vase','Home & Living',61.91
+560,'Tent','Sports & Outdoors',294.45
+329,'Eraser','Books & Stationery',348.31
+941,'Headphones','Electronics',213.83
+522,'Dress','Fashion',162.83
+862,'Vase','Home & Living',57.84
+157,'Pillow','Home & Living',406.99
+988,'Laptop','Electronics',465.66
+842,'Dress','Fashion',284.33
+865,'Pants','Fashion',323.83
+280,'Skirt','Fashion',300.18
+563,'Pillow','Home & Living',292.9
+171,'Novel','Books & Stationery',138.55
+325,'Running Shoes','Sports & Outdoors',309.54
+967,'Eraser','Books & Stationery',94.54
+370,'Tent','Sports & Outdoors',51.53
+766,'Laptop','Electronics',192.92
+162,'Shirt','Fashion',198.02
+158,'Shirt','Fashion',91.76
+888,'Eraser','Books & Stationery',36.27
+225,'Skirt','Fashion',482.28
+820,'Pen','Books & Stationery',357.97
+958,'Laptop','Electronics',153.12
+828,'Eraser','Books & Stationery',373.83
+297,'Headphones','Electronics',389.81
+626,'Eraser','Books & Stationery',117.09
+259,'Dress','Fashion',438.66
+716,'Tablet','Electronics',433.99
+486,'Yoga Mat','Sports & Outdoors',431.91
+260,'Pants','Fashion',408.63
+190,'Tent','Sports & Outdoors',92.5
+976,'Soccer Ball','Sports & Outdoors',76.44
+828,'Pants','Fashion',132.34
+310,'Pen','Books & Stationery',79.66
+792,'Novel','Books & Stationery',320.48
+327,'Vase','Home & Living',475.62
+554,'Tablet','Electronics',321.07
+667,'Running Shoes','Sports & Outdoors',116.74
+675,'Painting','Home & Living',175.5
+964,'Pillow','Home & Living',32.51
+141,'Laptop','Electronics',226.23
+106,'Dress','Fashion',87.9
+184,'Headphones','Electronics',335.61
+137,'Blanket','Home & Living',220.32
+622,'Novel','Books & Stationery',75.02
+347,'Headphones','Electronics',410.38
+199,'Skirt','Fashion',53.77
+576,'Blanket','Home & Living',197.53
+522,'Smartwatch','Electronics',286.01
+781,'Pants','Fashion',460.75
+560,'Smartphone','Electronics',78.61
+547,'Notebook','Books & Stationery',397.63
+225,'Tent','Sports & Outdoors',304
+302,'Headphones','Electronics',110.67
+884,'Pillow','Home & Living',394.06
+688,'Eraser','Books & Stationery',44.8
+848,'Skirt','Fashion',431.8
+856,'Skirt','Fashion',477.68
+493,'Blanket','Home & Living',29.52
+700,'Carpet','Home & Living',385.88
+555,'Tent','Sports & Outdoors',311.86
+129,'Pants','Fashion',272.83
+222,'Headphones','Electronics',352.35
+795,'T-shirt','Fashion',463.07
+739,'Blanket','Home & Living',68.53
+220,'Notebook','Books & Stationery',266.27
+905,'Pillow','Home & Living',388
+870,'Soccer Ball','Sports & Outdoors',138.85
+186,'Yoga Mat','Sports & Outdoors',37.17
+401,'Smartwatch','Electronics',340.32
+154,'Smartphone','Electronics',129.83
+268,'T-shirt','Fashion',280.9
+626,'Blanket','Home & Living',213.97
+681,'Yoga Mat','Sports & Outdoors',68.51
+531,'Soccer Ball','Sports & Outdoors',477.5
+297,'Painting','Home & Living',52.33
+344,'Yoga Mat','Sports & Outdoors',372.39
+977,'Story Book','Books & Stationery',368.91
+444,'Tablet','Electronics',21.72
+739,'Headphones','Electronics',10.72
+762,'Pillow','Home & Living',110.55
+509,'Dress','Fashion',55.58
+159,'Vase','Home & Living',487.53
+886,'Novel','Books & Stationery',300.03
+691,'Dress','Fashion',137.89
+589,'Painting','Home & Living',231.85
+615,'Soccer Ball','Sports & Outdoors',86.15
+639,'Smartwatch','Electronics',185.56
+650,'Smartphone','Electronics',87.23
+990,'Soccer Ball','Sports & Outdoors',115.36
+144,'Vase','Home & Living',261.6
+439,'T-shirt','Fashion',476.53
+554,'Tablet','Electronics',59.93
+294,'Pants','Fashion',107.09
+482,'Smartwatch','Electronics',297.2
+716,'Story Book','Books & Stationery',55.07
+520,'Laptop','Electronics',462.82
+482,'Tablet','Electronics',344.77
+961,'Painting','Home & Living',228.55
+226,'Dress','Fashion',254.46
+374,'Story Book','Books & Stationery',215.43
+568,'Soccer Ball','Sports & Outdoors',494.81
+146,'Notebook','Books & Stationery',457.21
+241,'Headphones','Electronics',302.59
+879,'Tablet','Electronics',269.42
+267,'Laptop','Electronics',331.86
+354,'Laptop','Electronics',292.09
+689,'Pants','Fashion',125.91
+190,'Soccer Ball','Sports & Outdoors',354.69
+869,'Basketball','Sports & Outdoors',419.98
+247,'Smartphone','Electronics',37.52
+653,'Headphones','Electronics',459.77
+307,'Dress','Fashion',39.18
+470,'Smartwatch','Electronics',431.73
+738,'Eraser','Books & Stationery',59.51
+431,'Pen','Books & Stationery',328.1
+209,'Yoga Mat','Sports & Outdoors',119.39
+876,'Blanket','Home & Living',97.08
+375,'Eraser','Books & Stationery',25.87
+755,'Basketball','Sports & Outdoors',323.43
+100,'Laptop','Electronics',179.94
+992,'Headphones','Electronics',228.85
+241,'Painting','Home & Living',395.64
+576,'Story Book','Books & Stationery',443.43
+899,'Novel','Books & Stationery',416.12
+737,'Skirt','Fashion',46.12
+595,'Smartphone','Electronics',177.49
+855,'Headphones','Electronics',301.07
+105,'Story Book','Books & Stationery',307.59
+205,'Pants','Fashion',210.55
+575,'Painting','Home & Living',155.73
+901,'Story Book','Books & Stationery',36.71
+545,'Running Shoes','Sports & Outdoors',107.84
+560,'Tablet','Electronics',423.45
+973,'Pillow','Home & Living',324.51
+308,'Blanket','Home & Living',228.43
+893,'Carpet','Home & Living',40.2
+610,'Carpet','Home & Living',212.85
+722,'Eraser','Books & Stationery',215.13
+744,'Basketball','Sports & Outdoors',243.37
+511,'Smartwatch','Electronics',289.9
+200,'Basketball','Sports & Outdoors',68.94
+628,'Pants','Fashion',71.83
+110,'Pants','Fashion',418.71
+141,'Smartphone','Electronics',200.17
+113,'Running Shoes','Sports & Outdoors',459.41
+246,'Running Shoes','Sports & Outdoors',65.13
+564,'Smartphone','Electronics',285.72
+140,'Vase','Home & Living',139.43
+614,'Laptop','Electronics',144.95
+305,'Novel','Books & Stationery',203.94
+657,'Notebook','Books & Stationery',449.55
+200,'Painting','Home & Living',422.99
+405,'Pants','Fashion',157.24
+311,'Vase','Home & Living',306.44
+517,'Pen','Books & Stationery',382.15
+944,'T-shirt','Fashion',162.45
+775,'Tent','Sports & Outdoors',24.18
+888,'Laptop','Electronics',26.2
+618,'Painting','Home & Living',413.52
+819,'Laptop','Electronics',192.51
+892,'Eraser','Books & Stationery',280.15
+396,'Headphones','Electronics',23.45
+362,'Pants','Fashion',327.22
+413,'Soccer Ball','Sports & Outdoors',433.67
+125,'Shirt','Fashion',402.42
+265,'Painting','Home & Living',217.67
+870,'Skirt','Fashion',158.05
+787,'Smartphone','Electronics',260.64
+173,'Tent','Sports & Outdoors',308.43
+635,'Painting','Home & Living',323.89
+977,'Blanket','Home & Living',83.47
+409,'Running Shoes','Sports & Outdoors',333.66
+350,'Notebook','Books & Stationery',137.12
+677,'Tent','Sports & Outdoors',409.85
+783,'Running Shoes','Sports & Outdoors',454.2
+291,'Shirt','Fashion',98.76
+748,'Basketball','Sports & Outdoors',473.99
+574,'Dress','Fashion',216.03
+682,'Novel','Books & Stationery',240.56
+597,'Tablet','Electronics',445.82
+513,'Yoga Mat','Sports & Outdoors',212.42
+809,'Eraser','Books & Stationery',447.49
+187,'T-shirt','Fashion',248.91
+229,'Smartphone','Electronics',231.51
+170,'Skirt','Fashion',394.75
+951,'Pen','Books & Stationery',220.22
+204,'Dress','Fashion',475.53
+763,'Smartphone','Electronics',317.08
+693,'Blanket','Home & Living',60.33
+892,'Headphones','Electronics',474.75
+118,'Vase','Home & Living',445.11
+756,'Blanket','Home & Living',90.79
+433,'Pants','Fashion',369.7
+931,'Tablet','Electronics',439.51
+951,'Soccer Ball','Sports & Outdoors',334.37
+427,'Tablet','Electronics',227.71
+349,'Pants','Fashion',350.64
+533,'Smartwatch','Electronics',142.29
+660,'Smartwatch','Electronics',362.2
+387,'Story Book','Books & Stationery',308.41
+257,'Vase','Home & Living',154.72
+560,'Notebook','Books & Stationery',124.91
+369,'Running Shoes','Sports & Outdoors',83.08
+622,'Headphones','Electronics',325.73
+953,'Novel','Books & Stationery',58.91
+624,'Painting','Home & Living',218.74
+911,'Smartphone','Electronics',427.48
+448,'Eraser','Books & Stationery',141.47
+591,'T-shirt','Fashion',206.38
+417,'Pen','Books & Stationery',327.93
+923,'Laptop','Electronics',60.82
+631,'Story Book','Books & Stationery',309.55
+681,'Skirt','Fashion',461
+275,'Headphones','Electronics',330.94
+766,'Tent','Sports & Outdoors',119.75
+505,'Soccer Ball','Sports & Outdoors',222.1
+628,'Story Book','Books & Stationery',421.13
+624,'Laptop','Electronics',257.73
+950,'Tablet','Electronics',167.11
+851,'Shirt','Fashion',325.23
+645,'Eraser','Books & Stationery',229.57
+811,'Novel','Books & Stationery',60.3
+497,'Smartwatch','Electronics',481.95
+349,'Skirt','Fashion',475.67
+358,'Notebook','Books & Stationery',284.47
+247,'Vase','Home & Living',65.87
+355,'Carpet','Home & Living',265.77
+121,'Story Book','Books & Stationery',412.7
+901,'Basketball','Sports & Outdoors',101.9
+323,'Dress','Fashion',62.81
+762,'Soccer Ball','Sports & Outdoors',388.35
+669,'Basketball','Sports & Outdoors',482.29
+868,'Eraser','Books & Stationery',246.64
+775,'Basketball','Sports & Outdoors',367.94
+841,'Yoga Mat','Sports & Outdoors',257.01
+522,'Dress','Fashion',204.96
+343,'Pants','Fashion',212.25
+162,'Yoga Mat','Sports & Outdoors',358.82
+950,'Yoga Mat','Sports & Outdoors',346.44
+969,'Shirt','Fashion',275.82
+411,'Carpet','Home & Living',245.38
+608,'Yoga Mat','Sports & Outdoors',439.96
+186,'Tablet','Electronics',81.21
+629,'Dress','Fashion',344.86
+114,'Blanket','Home & Living',379.26
+806,'Tent','Sports & Outdoors',433.77
+636,'Yoga Mat','Sports & Outdoors',349.54
+175,'Carpet','Home & Living',36.36
+349,'Story Book','Books & Stationery',456.63
+490,'Tent','Sports & Outdoors',371.84
+877,'Vase','Home & Living',96.94
+798,'Soccer Ball','Sports & Outdoors',194.83
+352,'Shirt','Fashion',424.55
+183,'T-shirt','Fashion',85.31
+399,'Yoga Mat','Sports & Outdoors',250.37
+246,'Carpet','Home & Living',117.78
+231,'Skirt','Fashion',276.11
+645,'Dress','Fashion',172.22
+727,'Running Shoes','Sports & Outdoors',498.35
+479,'Story Book','Books & Stationery',453.2
+977,'Headphones','Electronics',196.87
+279,'Pillow','Home & Living',456.55
+952,'Novel','Books & Stationery',155.25
+405,'Laptop','Electronics',486.1
+355,'Pants','Fashion',433.83
+537,'Novel','Books & Stationery',375.98
+375,'Smartphone','Electronics',45.89
+501,'Basketball','Sports & Outdoors',456.38
+712,'Notebook','Books & Stationery',18.28
+102,'Soccer Ball','Sports & Outdoors',380.42
+874,'Carpet','Home & Living',62.01
+952,'Pen','Books & Stationery',203.61
+471,'Pants','Fashion',375.91
+896,'Painting','Home & Living',479.12
+669,'Smartphone','Electronics',12.46
+393,'Headphones','Electronics',112.93
+366,'Eraser','Books & Stationery',79.8
+567,'T-shirt','Fashion',98.87
+732,'Running Shoes','Sports & Outdoors',325.89
+961,'Laptop','Electronics',365.54
+500,'T-shirt','Fashion',149.72
+844,'Notebook','Books & Stationery',312.01
+295,'Yoga Mat','Sports & Outdoors',405.77
+860,'Skirt','Fashion',145.57
+738,'Pen','Books & Stationery',228.23
+638,'Soccer Ball','Sports & Outdoors',422.48
+765,'Smartphone','Electronics',447.13
+693,'Running Shoes','Sports & Outdoors',386.91
+535,'Tent','Sports & Outdoors',241.33
+707,'Yoga Mat','Sports & Outdoors',75.6
+454,'Soccer Ball','Sports & Outdoors',334.71
+713,'Skirt','Fashion',88.02
+665,'Skirt','Fashion',470.2
+395,'Headphones','Electronics',191.02
+504,'Vase','Home & Living',240.14
+481,'Pillow','Home & Living',354.83
+479,'Carpet','Home & Living',276.73
+101,'Soccer Ball','Sports & Outdoors',263.16
+685,'Notebook','Books & Stationery',410.45
+691,'Soccer Ball','Sports & Outdoors',255.9
+436,'Yoga Mat','Sports & Outdoors',113.64
+317,'Laptop','Electronics',213.16
+313,'Pen','Books & Stationery',113.24
+506,'T-shirt','Fashion',72.66
+816,'Smartwatch','Electronics',81.96
+197,'Eraser','Books & Stationery',484.93
+557,'Pillow','Home & Living',116.13
+110,'Pants','Fashion',416.88
+244,'Shirt','Fashion',333.23
+554,'Eraser','Books & Stationery',299.39
+957,'Laptop','Electronics',266.13
+750,'Soccer Ball','Sports & Outdoors',96.94
+556,'Tent','Sports & Outdoors',378.67
+343,'Tent','Sports & Outdoors',415.49
+427,'Pillow','Home & Living',351.84
+112,'Notebook','Books & Stationery',298.63
+712,'Soccer Ball','Sports & Outdoors',218.49
+710,'Headphones','Electronics',303.16
+532,'Smartwatch','Electronics',266.04
+500,'Vase','Home & Living',187.51
+196,'Carpet','Home & Living',217.55
+511,'Story Book','Books & Stationery',212.48
+606,'Running Shoes','Sports & Outdoors',134.35
+226,'Story Book','Books & Stationery',428.95
+636,'T-shirt','Fashion',115.08
+136,'Soccer Ball','Sports & Outdoors',88.76
+260,'Skirt','Fashion',463.67
+664,'Pillow','Home & Living',308.42
+460,'Tent','Sports & Outdoors',150.37
+299,'Skirt','Fashion',225.1
+183,'Yoga Mat','Sports & Outdoors',105.43
+592,'Basketball','Sports & Outdoors',340.27
+292,'T-shirt','Fashion',498.44
+753,'Basketball','Sports & Outdoors',263.69
+415,'Yoga Mat','Sports & Outdoors',365.81
+315,'Blanket','Home & Living',307.12
+125,'Headphones','Electronics',95.77
+598,'Painting','Home & Living',474.04
+465,'Yoga Mat','Sports & Outdoors',350.15
+329,'Vase','Home & Living',343.98
+538,'Pillow','Home & Living',197.51
+667,'Vase','Home & Living',478.17
+486,'Blanket','Home & Living',150.77
+864,'Smartwatch','Electronics',466.38
+128,'Yoga Mat','Sports & Outdoors',99.56
+847,'Story Book','Books & Stationery',125.08
+983,'Pants','Fashion',419.8
+776,'Tablet','Electronics',310.78
+797,'Carpet','Home & Living',164.55
+263,'Yoga Mat','Sports & Outdoors',204.96
+122,'Pen','Books & Stationery',470.43
+604,'Skirt','Fashion',488.49
+529,'Smartphone','Electronics',340.31
+374,'Yoga Mat','Sports & Outdoors',101.7
+964,'Yoga Mat','Sports & Outdoors',189.3
+447,'Painting','Home & Living',428.62
+232,'Basketball','Sports & Outdoors',408.95
+804,'Pen','Books & Stationery',106.07
+464,'Skirt','Fashion',254.8
+438,'Notebook','Books & Stationery',132.98
+295,'T-shirt','Fashion',115.58
+834,'Notebook','Books & Stationery',137.29
+526,'Painting','Home & Living',19.72
+519,'Basketball','Sports & Outdoors',292.66
+254,'Painting','Home & Living',169.29
+815,'Tablet','Electronics',310.7
+791,'Dress','Fashion',216.69
+909,'Smartphone','Electronics',89.38
+939,'Carpet','Home & Living',325.88
+257,'Carpet','Home & Living',265.26
+576,'Laptop','Electronics',366.61
+411,'Laptop','Electronics',91.79
+787,'Eraser','Books & Stationery',36.37
+512,'Headphones','Electronics',312.87
+649,'Blanket','Home & Living',131.22
+322,'Basketball','Sports & Outdoors',24
+428,'Pen','Books & Stationery',487.74
+209,'Shirt','Fashion',96.75
+300,'Running Shoes','Sports & Outdoors',266.5
+482,'Eraser','Books & Stationery',121.29
+346,'Blanket','Home & Living',158.75
+347,'Dress','Fashion',150.51
+897,'Notebook','Books & Stationery',14.47
+738,'Smartwatch','Electronics',193.09
+551,'Pants','Fashion',360.32
+244,'Pillow','Home & Living',216.9
+577,'Yoga Mat','Sports & Outdoors',149.49
+829,'T-shirt','Fashion',99.38
+480,'Notebook','Books & Stationery',353.23
+179,'Smartwatch','Electronics',20.84
+333,'Novel','Books & Stationery',124.08
+586,'Notebook','Books & Stationery',395.01
+101,'Headphones','Electronics',49.31
+343,'Smartwatch','Electronics',240.37
+162,'Novel','Books & Stationery',69.76
+759,'Story Book','Books & Stationery',371.43
+299,'Smartwatch','Electronics',336.34
+451,'Painting','Home & Living',87.72
+846,'Soccer Ball','Sports & Outdoors',134.12
+149,'Laptop','Electronics',486.9
+648,'Dress','Fashion',296.5
+568,'Smartwatch','Electronics',393.9
+536,'Laptop','Electronics',87.27
+678,'Smartphone','Electronics',184.2
+611,'Skirt','Fashion',124.01
+840,'Story Book','Books & Stationery',20.46
+960,'Tablet','Electronics',356.25
+175,'Shirt','Fashion',101.45
+359,'Tent','Sports & Outdoors',88.57
+970,'Carpet','Home & Living',189.89
+928,'T-shirt','Fashion',313.67
+471,'Smartwatch','Electronics',411.33
+517,'Basketball','Sports & Outdoors',310.39
+970,'Smartwatch','Electronics',332.86
+761,'Laptop','Electronics',62.46
+735,'Pen','Books & Stationery',267.65
+734,'Shirt','Fashion',361.74
+374,'Novel','Books & Stationery',239.35
+639,'Notebook','Books & Stationery',399.18
+677,'Smartphone','Electronics',418.88
+506,'Smartphone','Electronics',365.33
+893,'Shirt','Fashion',316.41
+733,'Smartwatch','Electronics',185.4
+459,'Laptop','Electronics',398.31
+585,'Shirt','Fashion',499.23
+883,'Yoga Mat','Sports & Outdoors',423.98
+180,'Carpet','Home & Living',127.95
+285,'Painting','Home & Living',481.21
+132,'Headphones','Electronics',301.92
+509,'Headphones','Electronics',492.35
+224,'Carpet','Home & Living',260.52
+146,'Tablet','Electronics',184.27
+646,'Pants','Fashion',135.56
+747,'T-shirt','Fashion',364.55
+798,'Soccer Ball','Sports & Outdoors',301.66
+453,'Novel','Books & Stationery',392.26
+408,'Novel','Books & Stationery',436.2
+417,'Tablet','Electronics',36.52
+292,'Dress','Fashion',256.18
+580,'Pen','Books & Stationery',378.89
+774,'Vase','Home & Living',82.53
+955,'Smartwatch','Electronics',205.6
+312,'Pants','Fashion',245.65
+881,'Shirt','Fashion',311.84
+747,'Vase','Home & Living',168.47
+315,'Notebook','Books & Stationery',180.67
+471,'Blanket','Home & Living',493.95
+107,'Basketball','Sports & Outdoors',225.83
+854,'Smartphone','Electronics',372.39
+158,'Pillow','Home & Living',178.2
+222,'Blanket','Home & Living',372.61
+418,'Carpet','Home & Living',246.68
+672,'Tablet','Electronics',295.67
+517,'Headphones','Electronics',108.34
+818,'Smartphone','Electronics',200.44
+863,'Pillow','Home & Living',19.35
+300,'Soccer Ball','Sports & Outdoors',452.9
+128,'Pants','Fashion',255.32
+749,'Laptop','Electronics',461.91
+149,'T-shirt','Fashion',179.92
+703,'Yoga Mat','Sports & Outdoors',407.83
+533,'Smartwatch','Electronics',475.07
+642,'T-shirt','Fashion',367.65
+290,'Skirt','Fashion',127.78
+856,'Yoga Mat','Sports & Outdoors',230.09
+173,'Basketball','Sports & Outdoors',432.67
+106,'Skirt','Fashion',497.89
+217,'Dress','Fashion',43.23
+385,'Blanket','Home & Living',366.27
+329,'Notebook','Books & Stationery',227.07
+435,'T-shirt','Fashion',74.46
+817,'Carpet','Home & Living',287.85
+433,'Headphones','Electronics',48.94
+663,'Notebook','Books & Stationery',100.15
+910,'Pants','Fashion',25.79
+967,'Pants','Fashion',381.31
+295,'Eraser','Books & Stationery',250.07
+569,'Pen','Books & Stationery',390.35
+853,'Vase','Home & Living',309.64
+143,'Smartwatch','Electronics',63.56
+842,'Shirt','Fashion',273.56
+209,'Laptop','Electronics',152.68
+368,'Vase','Home & Living',91.58
+680,'Basketball','Sports & Outdoors',237.15
+937,'Laptop','Electronics',391.58
+788,'Vase','Home & Living',22.21
+149,'Skirt','Fashion',54.19
+133,'T-shirt','Fashion',54.68
+236,'Running Shoes','Sports & Outdoors',366.17
+898,'Running Shoes','Sports & Outdoors',31.51
+848,'Pants','Fashion',435.72
+798,'Painting','Home & Living',367.78
+319,'Pants','Fashion',11.73
+430,'Eraser','Books & Stationery',405.65
+426,'Running Shoes','Sports & Outdoors',232.33
+557,'Shirt','Fashion',146.28
+716,'Laptop','Electronics',82.65
+122,'Smartwatch','Electronics',420.63
+956,'Tablet','Electronics',496.93
+828,'Tent','Sports & Outdoors',395.78
+306,'Pillow','Home & Living',55.63
+222,'Tablet','Electronics',423.22
+568,'Painting','Home & Living',268.26
+582,'Smartphone','Electronics',289.97
+881,'Yoga Mat','Sports & Outdoors',219.26
+729,'Yoga Mat','Sports & Outdoors',464.28
+146,'Pen','Books & Stationery',405.91
+114,'T-shirt','Fashion',67.92
+327,'Shirt','Fashion',499.5
+126,'T-shirt','Fashion',323.9
+479,'Painting','Home & Living',258.28
+953,'Painting','Home & Living',204.06
+489,'Pants','Fashion',171.95
+395,'Novel','Books & Stationery',326.37
+822,'Yoga Mat','Sports & Outdoors',236.61
+663,'Yoga Mat','Sports & Outdoors',286.82
+510,'Shirt','Fashion',345.89
+142,'Headphones','Electronics',491.97
+237,'Running Shoes','Sports & Outdoors',101.82
+640,'Pillow','Home & Living',143.03
+995,'Notebook','Books & Stationery',115.91
+184,'Laptop','Electronics',457.54
+750,'Basketball','Sports & Outdoors',103.2
+298,'Blanket','Home & Living',387.05
+186,'Pants','Fashion',365.04
+880,'Smartphone','Electronics',162.38
+797,'Headphones','Electronics',238.77
+882,'Pillow','Home & Living',293
+600,'Pants','Fashion',150.42
+973,'Headphones','Electronics',83.17
+157,'Tent','Sports & Outdoors',60.16
+144,'Dress','Fashion',291.3
+499,'Carpet','Home & Living',227.39
+804,'Smartphone','Electronics',197.96
+713,'Tent','Sports & Outdoors',318.44
+256,'Painting','Home & Living',410.55
+112,'Tablet','Electronics',288.22
+759,'Novel','Books & Stationery',233.24
+801,'Story Book','Books & Stationery',474.25
+550,'Vase','Home & Living',99.84
+701,'Vase','Home & Living',248.88
+866,'Story Book','Books & Stationery',148.31
+974,'Tablet','Electronics',410.6
+635,'Carpet','Home & Living',235.88
+837,'Basketball','Sports & Outdoors',487.21
+524,'Running Shoes','Sports & Outdoors',394.31
+712,'Pants','Fashion',334.68
+175,'Novel','Books & Stationery',300.16
+332,'Story Book','Books & Stationery',160.94
+302,'Running Shoes','Sports & Outdoors',170.43
+331,'Shirt','Fashion',452.6
+701,'Skirt','Fashion',270.32
+325,'Dress','Fashion',156.87
+965,'Notebook','Books & Stationery',495.24
+510,'Story Book','Books & Stationery',427.73
+445,'Smartphone','Electronics',354.64
+410,'Laptop','Electronics',221.54
+177,'Pen','Books & Stationery',196.97

@@ -1,0 +1,50 @@
+Name      Null?    Type         
+--------- -------- ------------ 
+CUSTOMER# NOT NULL NUMBER(4)    
+LASTNAME  NOT NULL VARCHAR2(10) 
+FIRSTNAME NOT NULL VARCHAR2(10) 
+ADDRESS            VARCHAR2(20) 
+CITY               VARCHAR2(12) 
+STATE              VARCHAR2(2)  
+ZIP                VARCHAR2(5)  
+REFERRED           NUMBER(4)    
+REGION             CHAR(2)      
+EMAIL              VARCHAR2(30) 
+Name       Null?    Type         
+---------- -------- ------------ 
+ORDER#     NOT NULL NUMBER(4)    
+CUSTOMER#           NUMBER(4)    
+ORDERDATE  NOT NULL DATE         
+SHIPDATE            DATE         
+SHIPSTREET          VARCHAR2(18) 
+SHIPCITY            VARCHAR2(15) 
+SHIPSTATE           VARCHAR2(2)  
+SHIPZIP             VARCHAR2(5)  
+SHIPCOST            NUMBER(4,2)  
+Name     Null?    Type         
+-------- -------- ------------ 
+ISBN     NOT NULL VARCHAR2(10) 
+TITLE             VARCHAR2(30) 
+PUBDATE           DATE         
+PUBID             NUMBER(2)    
+COST              NUMBER(5,2)  
+RETAIL            NUMBER(5,2)  
+DISCOUNT          NUMBER(4,2)  
+CATEGORY          VARCHAR2(12) 
+Name     Null?    Type         
+-------- -------- ------------ 
+AUTHORID NOT NULL VARCHAR2(4)  
+LNAME             VARCHAR2(10) 
+FNAME             VARCHAR2(10) 
+
+TITLE                          PUBDATE  CATEGORY    
+------------------------------ -------- ------------
+BODYBUILD IN 10 MINUTES A DAY  21/01/05 FITNESS     
+REVENGE OF MICKEY              14/12/05 FAMILY LIFE 
+HOLY GRAIL OF ORACLE           31/12/05 COMPUTER    
+HANDCRANKED COMPUTERS          21/01/05 COMPUTER    
+BIG BEAR AND LITTLE DOVE       08/11/05 CHILDREN    
+SHORTEST POEMS                 01/05/05 LITERATURE  
+
+6 rows selected. 
+

@@ -1,0 +1,157 @@
+
+FIRSTNAME  LASTNAME   ST
+---------- ---------- --
+JENNIFER   SMITH      NJ
+KENNETH    FALAH      NJ
+
+
+    ORDER# ORDERDAT
+---------- --------
+      1007 02/04/09
+      1008 02/04/09
+      1009 03/04/09
+      1010 03/04/09
+      1011 03/04/09
+      1012 03/04/09
+      1013 03/04/09
+      1014 04/04/09
+      1015 04/04/09
+      1016 04/04/09
+      1017 04/04/09
+
+    ORDER# ORDERDAT
+---------- --------
+      1018 05/04/09
+      1019 05/04/09
+      1020 05/04/09
+
+14 rows selected. 
+
+
+TITLE                          CATEGORY    
+------------------------------ ------------
+REVENGE OF MICKEY              FAMILY LIFE 
+BUILDING A CAR WITH TOOTHPICKS CHILDREN    
+DATABASE IMPLEMENTATION        COMPUTER    
+COOKING WITH MUSHROOMS         COOKING     
+HOLY GRAIL OF ORACLE           COMPUTER    
+HANDCRANKED COMPUTERS          COMPUTER    
+E-BUSINESS THE EASY WAY        COMPUTER    
+PAINLESS CHILD-REARING         FAMILY LIFE 
+THE WOK WAY TO COOK            COOKING     
+BIG BEAR AND LITTLE DOVE       CHILDREN    
+HOW TO GET FASTER PIZZA        SELF HELP   
+
+TITLE                          CATEGORY    
+------------------------------ ------------
+HOW TO MANAGE THE MANAGER      BUSINESS    
+SHORTEST POEMS                 LITERATURE  
+
+13 rows selected. 
+
+
+ CUSTOMER# LASTNAME   ST
+---------- ---------- --
+      1020 FALAH      NJ
+      1010 LUCAS      GA
+      1018 MONTIASA   GA
+      1019 SMITH      NJ
+
+
+ CUSTOMER# LASTNAME   ST
+---------- ---------- --
+      1020 FALAH      NJ
+      1010 LUCAS      GA
+      1018 MONTIASA   GA
+      1019 SMITH      NJ
+
+
+    ORDER# ORDERDAT
+---------- --------
+      1000 31/03/09
+      1001 31/03/09
+      1002 31/03/09
+      1003 01/04/09
+      1004 01/04/09
+      1005 01/04/09
+      1006 01/04/09
+
+7 rows selected. 
+
+
+    ORDER# ORDERDAT
+---------- --------
+      1000 31/03/09
+      1001 31/03/09
+      1002 31/03/09
+      1003 01/04/09
+      1004 01/04/09
+      1005 01/04/09
+      1006 01/04/09
+
+7 rows selected. 
+
+
+LNAME      FNAME     
+---------- ----------
+AUSTIN     JAMES     
+MARTINEZ   SHEILA    
+ROBINSON   ROBERT    
+WILKINSON  ANTHONY   
+
+
+LASTNAME     REFERRED
+---------- ----------
+GIANA            1003
+PEREZ            1003
+NGUYEN           1006
+DAUM             1010
+SMITH            1003
+
+
+TITLE                          CATEGORY    
+------------------------------ ------------
+BUILDING A CAR WITH TOOTHPICKS CHILDREN    
+COOKING WITH MUSHROOMS         COOKING     
+THE WOK WAY TO COOK            COOKING     
+BIG BEAR AND LITTLE DOVE       CHILDREN    
+
+
+TITLE                          CATEGORY    
+------------------------------ ------------
+BUILDING A CAR WITH TOOTHPICKS CHILDREN    
+COOKING WITH MUSHROOMS         COOKING     
+THE WOK WAY TO COOK            COOKING     
+BIG BEAR AND LITTLE DOVE       CHILDREN    
+
+
+TITLE                          CATEGORY    
+------------------------------ ------------
+BUILDING A CAR WITH TOOTHPICKS CHILDREN    
+COOKING WITH MUSHROOMS         COOKING     
+THE WOK WAY TO COOK            COOKING     
+BIG BEAR AND LITTLE DOVE       CHILDREN    
+
+
+ISBN       TITLE                         
+---------- ------------------------------
+2491748320 PAINLESS CHILD-REARING        
+
+
+TITLE                          PUBDATE 
+------------------------------ --------
+HOLY GRAIL OF ORACLE           31/12/05
+HANDCRANKED COMPUTERS          21/01/05
+
+
+TITLE                          PUBDATE 
+------------------------------ --------
+HOLY GRAIL OF ORACLE           31/12/05
+HANDCRANKED COMPUTERS          21/01/05
+
+
+TITLE                          PUBDATE 
+------------------------------ --------
+HOLY GRAIL OF ORACLE           31/12/05
+HANDCRANKED COMPUTERS          21/01/05
+
